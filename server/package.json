@@ -1,0 +1,21 @@
+{
+  "name": "apex",
+  "version": "1.0.0",
+  "description": "Equipment tracking solution to manage run time and maintenance needs of a companies equipment.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.2"
+  }
+}

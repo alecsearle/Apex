@@ -1,0 +1,8 @@
+Hours to completion:
+
+Date     | Hours | Description
+-------- | ----- | -----------
+12-23-24 | 1     | Set up datastructure.drawio to understand data requirments
+12-27-24 | 2     | Studied / set up basic MVP file structure | https://youtu.be/Cgvopu9zg8Y?si=IJ8kPbp7M0d56TkX | https://youtu.be/bQuBlR0T5cc?si=DOMs-K3xT0r23fT3
+12-28-24 | 2     | Connected MongoDB and made a user test route/schema https://youtu.be/xR5W6MemhfM?si=Js_k5uXt0RtrU1o7 
+
