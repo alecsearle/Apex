@@ -1,5 +1,6 @@
 const mongoose = require("mongoose");
 
+// Define the User Schema
 const userSchema = new mongoose.Schema(
   {
     username: {
@@ -18,10 +19,10 @@ const userSchema = new mongoose.Schema(
     },
   },
   {
-    timestamps: true,
+    timestamps: true, // Automatically add createdAt and updatedAt
   }
 );
 
+// Export the User model
 const User = mongoose.model("User", userSchema);
-
-export default User;
+module.exports = User;
